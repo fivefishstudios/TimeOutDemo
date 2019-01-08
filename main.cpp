@@ -1,3 +1,7 @@
+//
+// Timeout is used for calling a function at certain time in the future. 
+//  could be in microseconds, or seconds
+//
 #include "mbed.h"
 
 Timeout timeout;
